@@ -8,7 +8,7 @@ Requirements:
 
 - Raspberry Pi 2011.12 Rev 2.0 and Hitachi 'HD44780' 16x2 LCD
 - Python library for accessing HD44780 - check here: https://bit.ly/36K5WXq
-- Confirmed, Deaths, and Recovered Cases API - check here: https://www.2019ncova.asia
+- Confirmed, Deaths, and Recovered Cases API - check here: https://www.2019ncov.asia
 
 ### Message Board
 
